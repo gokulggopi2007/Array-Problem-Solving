@@ -20,3 +20,13 @@
 18. Write a C program to find the first repeated element in an array.
 19. Write a C program to find the first non-repeated element in an array.
 20. Write a C program to sort an array using Bubble Sort.
+21. Write a C program to print positive numbers in array.
+22. Write a C program to print negative numbers in array.
+23. Write a C program to print prime numbers in array.
+24. Write a C program to find a elements in a array using Linear search.
+25. Write a C program to find a elements in a array using Binary search.
+26. Write a C program to delete a given element in array.
+27. Write a C program to insert a element in a given position.
+28. Write a C program to print unit digit of array elements.
+29. Write a C program to print all elements between given two index.
+30. Write a C program to print first maximum and second maximum in a array.
