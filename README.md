@@ -32,3 +32,4 @@
 30. Write a C program to print first maximum and second maximum in a array.
 31. write a C program to rotate a array by one time in place.
 32. Write a C program to rotate the array by k times.
+33. Write a C program to sort an array containing 0's, 1's, and 2's.
