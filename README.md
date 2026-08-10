@@ -34,3 +34,4 @@
 32. Write a C program to rotate the array by k times.
 33. Write a C program to sort an array containing 0's, 1's, and 2's.
 34. Write a C program to delete duplicate elements in  an array.
+35. Write a C program to find the index to add two is equal to target.
