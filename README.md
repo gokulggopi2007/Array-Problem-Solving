@@ -37,3 +37,4 @@
 35. Write a C program to find the index to add two is equal to target.
 36. Write a C program to merge the two array and print the merged array in ascending order.
 37. Write a C program to find a median of the two array.
+38. Write a C program to find a Majority element in the array.
