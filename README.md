@@ -38,3 +38,4 @@
 36. Write a C program to merge the two array and print the merged array in ascending order.
 37. Write a C program to find a median of the two array.
 38. Write a C program to find a Majority element in the array.
+39. Write a C program to sort an array using Insertion Sort.
