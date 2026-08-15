@@ -39,3 +39,4 @@
 37. Write a C program to find a median of the two array.
 38. Write a C program to find a Majority element in the array.
 39. Write a C program to sort an array using Insertion Sort.
+40. Write a C program to check if an array is a palindrome.
