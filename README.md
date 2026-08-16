@@ -40,3 +40,4 @@
 38. Write a C program to find a Majority element in the array.
 39. Write a C program to sort an array using Insertion Sort.
 40. Write a C program to check if an array is a palindrome.
+41. Write a C program to Maximum product of two element in an array.
