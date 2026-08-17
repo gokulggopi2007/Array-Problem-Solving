@@ -41,3 +41,4 @@
 39. Write a C program to sort an array using Insertion Sort.
 40. Write a C program to check if an array is a palindrome.
 41. Write a C program to Maximum product of two element in an array.
+42. Write a C program to find maximum difference between two successive elements in its sorted in a array.
