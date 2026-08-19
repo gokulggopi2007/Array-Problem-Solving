@@ -43,3 +43,4 @@
 41. Write a C program to Maximum product of two element in an array.
 42. Write a C program to find maximum difference between two successive elements in its sorted in a array.
 43. Write a C program to print all the posibble subarray in the given array.
+44. Write a C program to print Maximum subarray sum.
