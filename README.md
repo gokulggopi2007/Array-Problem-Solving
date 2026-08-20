@@ -44,3 +44,5 @@
 42. Write a C program to find maximum difference between two successive elements in its sorted in a array.
 43. Write a C program to print all the posibble subarray in the given array.
 44. Write a C program to print Maximum subarray sum.
+45. Write a C program to find count of even number of digits.
+46. Write a C program to find count of odd number of digits.
