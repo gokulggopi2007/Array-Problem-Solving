@@ -46,3 +46,4 @@
 44. Write a C program to print Maximum subarray sum.
 45. Write a C program to find count of even number of digits.
 46. Write a C program to find count of odd number of digits.
+47. Write a C program to sum of integers with maximum digit range.
