@@ -47,3 +47,4 @@
 45. Write a C program to find count of even number of digits.
 46. Write a C program to find count of odd number of digits.
 47. Write a C program to sum of integers with maximum digit range.
+48. Write a C program to find the count of duplicate elements in  an array.
