@@ -48,3 +48,4 @@
 46. Write a C program to find count of odd number of digits.
 47. Write a C program to sum of integers with maximum digit range.
 48. Write a C program to find the count of duplicate elements in  an array.
+49. Write a C program to print first minimum and second minimum in a array.
